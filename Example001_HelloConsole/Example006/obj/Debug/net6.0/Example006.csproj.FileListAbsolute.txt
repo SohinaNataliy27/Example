@@ -1,0 +1,15 @@
+C:\Users\Lenovo Ideapad\Desktop\Обучение GB\С#\Examplse\Example001_HelloConsole\Example006\obj\Debug\net6.0\Example006.csproj.AssemblyReference.cache
+C:\Users\Lenovo Ideapad\Desktop\Обучение GB\С#\Examplse\Example001_HelloConsole\Example006\obj\Debug\net6.0\Example006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo Ideapad\Desktop\Обучение GB\С#\Examplse\Example001_HelloConsole\Example006\obj\Debug\net6.0\Example006.AssemblyInfoInputs.cache
+C:\Users\Lenovo Ideapad\Desktop\Обучение GB\С#\Examplse\Example001_HelloConsole\Example006\obj\Debug\net6.0\Example006.AssemblyInfo.cs
+C:\Users\Lenovo Ideapad\Desktop\Обучение GB\С#\Examplse\Example001_HelloConsole\Example006\obj\Debug\net6.0\Example006.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Ideapad\Desktop\Обучение GB\С#\Examplse\Example001_HelloConsole\Example006\bin\Debug\net6.0\Example006.exe
+C:\Users\Lenovo Ideapad\Desktop\Обучение GB\С#\Examplse\Example001_HelloConsole\Example006\bin\Debug\net6.0\Example006.deps.json
+C:\Users\Lenovo Ideapad\Desktop\Обучение GB\С#\Examplse\Example001_HelloConsole\Example006\bin\Debug\net6.0\Example006.runtimeconfig.json
+C:\Users\Lenovo Ideapad\Desktop\Обучение GB\С#\Examplse\Example001_HelloConsole\Example006\bin\Debug\net6.0\Example006.dll
+C:\Users\Lenovo Ideapad\Desktop\Обучение GB\С#\Examplse\Example001_HelloConsole\Example006\bin\Debug\net6.0\Example006.pdb
+C:\Users\Lenovo Ideapad\Desktop\Обучение GB\С#\Examplse\Example001_HelloConsole\Example006\obj\Debug\net6.0\Example006.dll
+C:\Users\Lenovo Ideapad\Desktop\Обучение GB\С#\Examplse\Example001_HelloConsole\Example006\obj\Debug\net6.0\refint\Example006.dll
+C:\Users\Lenovo Ideapad\Desktop\Обучение GB\С#\Examplse\Example001_HelloConsole\Example006\obj\Debug\net6.0\Example006.pdb
+C:\Users\Lenovo Ideapad\Desktop\Обучение GB\С#\Examplse\Example001_HelloConsole\Example006\obj\Debug\net6.0\Example006.genruntimeconfig.cache
+C:\Users\Lenovo Ideapad\Desktop\Обучение GB\С#\Examplse\Example001_HelloConsole\Example006\obj\Debug\net6.0\ref\Example006.dll
